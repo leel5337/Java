@@ -30,7 +30,7 @@ public class Java1_04 {
         int iNum1 = (int)dNum1 + (int)fNum;
         int iNum2 = (int)(dNum1 + fNum);
 
-        System.out.println(iNum1);
         System.out.println(iNum2);
+        System.out.println(iNum1);
     }
 }
