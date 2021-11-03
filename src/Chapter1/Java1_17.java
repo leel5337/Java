@@ -2,7 +2,7 @@ package Chapter1;
 
 public class Java1_17 {
     public static void main(String[] args) {
-        
+
         int num;
         for (num = 1; num <= 100; num++) {
 
