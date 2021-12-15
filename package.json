@@ -1,0 +1,25 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "Java Example",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/leel5337/Java.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leel5337/Java/issues"
+  },
+  "homepage": "https://github.com/leel5337/Java#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
